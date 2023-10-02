@@ -1,0 +1,3 @@
+SHORT NOTE ON TAG AND ELEMENT.
+Tags in HTML is a way to define that how the browser should format the content,Whereas the Elementa are the whole structure of the tag and the content.
+For example- "<p>" is a tag, and "<p> I am writing an element </p>" is an element.

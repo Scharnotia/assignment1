@@ -1,0 +1,2 @@
+A DOCTYPE DECLARATION IN HTML.
+By doctype declaration in html we mean that we are addressing the browser that kind of document to expect.If we are writing "doctype HTML" then it means that the document type is HTML and the browser should expect an HTML file.
